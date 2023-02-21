@@ -85,7 +85,16 @@
         font-size: 35px;
         margin: auto;
         position: relative;
-        right: 20px;
+        right: 22px;
+    }
+
+    #imenu > li {
+        padding: 0px;
+    }
+
+    #imenu > li > a {
+        font-size: 18px;
+        padding: 0px 30%;
     }
     
 }
