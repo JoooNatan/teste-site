@@ -23,10 +23,13 @@
 }
 
 #menu-btn {
-    padding-left: 20px;
+    margin-left: 3px;
+    padding: 0px 5px;
     cursor: pointer;
     font-size: 20px;
     display: none;
+    background-color: #004d8086;
+    border-radius: 3px;
 }
 
 #imenu > li {
