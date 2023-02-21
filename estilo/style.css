@@ -89,12 +89,12 @@
     }
 
     #imenu > li {
-        padding: 0px;
+        padding: 10px 0px;
     }
 
     #imenu > li > a {
         font-size: 18px;
-        padding: 0px 30%;
+        padding: 10px 30%;
     }
     
 }
