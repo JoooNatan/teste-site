@@ -50,6 +50,7 @@
     #menu-btn {
         display: inline;
         z-index: 999;
+        position: fixed;
     }
 
     #menu-icon.active::before {
